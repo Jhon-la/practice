@@ -4,6 +4,7 @@ EJEMPLO DIDACTICO: PERCEPTRON SIN SEPARABILIDAD
 ================================================
 'Esto es un nuevo ejemplo' 'nuevo ejemplo'
 Objetivo
+hola..
 --------
 Comprender por que el perceptron de Rosenblatt puede seguir corrigiendo
 sus pesos cuando NO existe una recta que separe todos los ejemplos.
